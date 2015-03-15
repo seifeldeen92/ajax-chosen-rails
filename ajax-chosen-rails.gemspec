@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency "railties"
   gem.add_dependency "thor"
-  gem.add_dependency "chosen-rails_ffcrm"
+  gem.add_dependency "chosen-rails"
   gem.add_development_dependency "bundler"
   gem.add_development_dependency "rails"
   gem.add_development_dependency "sass"
